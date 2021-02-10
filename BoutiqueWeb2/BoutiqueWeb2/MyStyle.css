@@ -1,0 +1,41 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+#Logo{
+
+    height:40px;
+    width:40px;
+}
+.navbar{
+
+}
+    .navbar ul {
+        list-style-type: none;
+        background-color: #f5c9d8;
+        overflow: hidden;
+        top: 0;
+        height: 40px;
+    }
+.navbar li {
+    display: inline;
+  }
+
+    .navbar li a {
+        color: #000000;
+        text-decoration: none;
+        font-size: 20px;
+        padding: 10px 15px;
+        float: left;
+        text-align: center;
+    }
+        .navbar li a:hover {
+            background-color: #f222b0;
+        }
+.navbar li a:visited{
+    color:#78e2c2;
+}
+        .navbar li a:active {
+            background-color: #fc77d2
+        }
+
+
